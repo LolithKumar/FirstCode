@@ -1,3 +1,2 @@
 # FirstCode
-
-i am learning to work on this.
+working on this.
